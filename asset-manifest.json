@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/hackout-frontend/static/css/main.52891c7a.chunk.css",
-    "main.js": "/hackout-frontend/static/js/main.3c5dfc79.chunk.js",
-    "main.js.map": "/hackout-frontend/static/js/main.3c5dfc79.chunk.js.map",
+    "main.css": "/hackout-frontend/static/css/main.b77c8db6.chunk.css",
+    "main.js": "/hackout-frontend/static/js/main.cb78f7cf.chunk.js",
+    "main.js.map": "/hackout-frontend/static/js/main.cb78f7cf.chunk.js.map",
     "runtime-main.js": "/hackout-frontend/static/js/runtime-main.44966be3.js",
     "runtime-main.js.map": "/hackout-frontend/static/js/runtime-main.44966be3.js.map",
-    "static/js/2.c547ce4e.chunk.js": "/hackout-frontend/static/js/2.c547ce4e.chunk.js",
-    "static/js/2.c547ce4e.chunk.js.map": "/hackout-frontend/static/js/2.c547ce4e.chunk.js.map",
+    "static/js/2.7c0b8196.chunk.js": "/hackout-frontend/static/js/2.7c0b8196.chunk.js",
+    "static/js/2.7c0b8196.chunk.js.map": "/hackout-frontend/static/js/2.7c0b8196.chunk.js.map",
     "index.html": "/hackout-frontend/index.html",
-    "static/css/main.52891c7a.chunk.css.map": "/hackout-frontend/static/css/main.52891c7a.chunk.css.map",
-    "static/js/2.c547ce4e.chunk.js.LICENSE.txt": "/hackout-frontend/static/js/2.c547ce4e.chunk.js.LICENSE.txt",
+    "static/css/main.b77c8db6.chunk.css.map": "/hackout-frontend/static/css/main.b77c8db6.chunk.css.map",
+    "static/js/2.7c0b8196.chunk.js.LICENSE.txt": "/hackout-frontend/static/js/2.7c0b8196.chunk.js.LICENSE.txt",
     "static/media/SignUp.a037c141.svg": "/hackout-frontend/static/media/SignUp.a037c141.svg",
     "static/media/login-img.c1364340.svg": "/hackout-frontend/static/media/login-img.c1364340.svg"
   },
   "entrypoints": [
     "static/js/runtime-main.44966be3.js",
-    "static/js/2.c547ce4e.chunk.js",
-    "static/css/main.52891c7a.chunk.css",
-    "static/js/main.3c5dfc79.chunk.js"
+    "static/js/2.7c0b8196.chunk.js",
+    "static/css/main.b77c8db6.chunk.css",
+    "static/js/main.cb78f7cf.chunk.js"
   ]
 }
